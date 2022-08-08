@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3660227155369328118
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1156219714864415953, guid: 4fe144be45e96ff46a7a76789d20e33f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8aeab06243351ec49b46558256a168cd, type: 2}
+    - target: {fileID: 1350867455277912097, guid: 4fe144be45e96ff46a7a76789d20e33f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8d8e7e275c7f7a549a8450abf19baf69, type: 2}
+    - target: {fileID: 2153718917300036242, guid: 4fe144be45e96ff46a7a76789d20e33f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8aeab06243351ec49b46558256a168cd, type: 2}
+    - target: {fileID: 2585032516276424200, guid: 4fe144be45e96ff46a7a76789d20e33f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8d8e7e275c7f7a549a8450abf19baf69, type: 2}
+    - target: {fileID: 2745494999280036477, guid: 4fe144be45e96ff46a7a76789d20e33f, type: 3}
+      propertyPath: m_Name
+      value: Airplane_Learning_Teal
+      objectReference: {fileID: 0}
+    - target: {fileID: 2982767040389228514, guid: 4fe144be45e96ff46a7a76789d20e33f, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265713960036528327, guid: 4fe144be45e96ff46a7a76789d20e33f, type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265713960036528327, guid: 4fe144be45e96ff46a7a76789d20e33f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 39
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265713960036528327, guid: 4fe144be45e96ff46a7a76789d20e33f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.6664506
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265713960036528327, guid: 4fe144be45e96ff46a7a76789d20e33f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 11.904549
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265713960036528327, guid: 4fe144be45e96ff46a7a76789d20e33f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265713960036528327, guid: 4fe144be45e96ff46a7a76789d20e33f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265713960036528327, guid: 4fe144be45e96ff46a7a76789d20e33f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265713960036528327, guid: 4fe144be45e96ff46a7a76789d20e33f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265713960036528327, guid: 4fe144be45e96ff46a7a76789d20e33f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265713960036528327, guid: 4fe144be45e96ff46a7a76789d20e33f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265713960036528327, guid: 4fe144be45e96ff46a7a76789d20e33f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5202510815848979762, guid: 4fe144be45e96ff46a7a76789d20e33f, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6781120209311902235, guid: 4fe144be45e96ff46a7a76789d20e33f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8d8e7e275c7f7a549a8450abf19baf69, type: 2}
+    - target: {fileID: 7968178869655994178, guid: 4fe144be45e96ff46a7a76789d20e33f, type: 3}
+      propertyPath: m_Name
+      value: Airplane_Learning_Cyan
+      objectReference: {fileID: 0}
+    - target: {fileID: 8073288379879371952, guid: 4fe144be45e96ff46a7a76789d20e33f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8aeab06243351ec49b46558256a168cd, type: 2}
+    - target: {fileID: 8109199925188415033, guid: 4fe144be45e96ff46a7a76789d20e33f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8d8e7e275c7f7a549a8450abf19baf69, type: 2}
+    - target: {fileID: 9213205722674853669, guid: 4fe144be45e96ff46a7a76789d20e33f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8aeab06243351ec49b46558256a168cd, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 4fe144be45e96ff46a7a76789d20e33f, type: 3}
